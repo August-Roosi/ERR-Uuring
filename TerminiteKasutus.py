@@ -61,8 +61,8 @@ counts = Counter(
 # failinimi = "ERR_Artiklid.json"
 j = 0
 
-output_failid = ["2021_artiklid.csv"]
-aastad = ["2021"]
+output_failid = ["2023_sonade_sagedus.csv"]
+aastad = ["2023"]
 
 for failinimi in faili_nimed:
     df = Faililugeja.ReadIntoDataframe(failinimi, aastad[j])
