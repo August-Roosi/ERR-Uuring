@@ -1,4 +1,5 @@
-# ERR-Analüüs
+# ERR-Analysis
+# Andreas Närep, August Roosi, Mihkel Rump
 
 The aim is to analyze ERR articles and discover trends. We looked at word usage and lengths of articles and titles over time. 
 
